@@ -8,3 +8,8 @@ With the webcam capturing the video, the frames are preprocessed and and fed to 
 wearing/removing mask and display of prediction.
 
 #### The model is capable of predicting multiple faces with or without masks at the same time
+
+## Dataset
+
+The data used can be downloaded through this [link](https://data-flair.training/blogs/download-face-mask-data/) or can be downloaded from this repository as well (folders 'test' and 
+'train'). There are 1314 training images and 194 test images divided into two catgories, with and without mask.
